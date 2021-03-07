@@ -1,1 +1,8 @@
 primeira linha
+segunda linha
+terceira linha
+<<<<<<< HEAD
+quarta linha
+=======
+quinta linha
+>>>>>>> 4de03dab6ae1c6a908a3181b4d5566b188b29f14
